@@ -25,9 +25,9 @@ reference to this strange phrase "market socialism":
 > using markets to distribute resources and products, letting different enterprises bargain
 > and negotiate with one another, and accomplish distribution, that way the
 > latter group was called market socialists, and the other one was called
-> planned socialists
+> planned socialists.
 
-[Richard Wolff on "Market Socialism"](https://www.youtube.com/watch?v=8pjpS0q9efw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8pjpS0q9efw?start=113" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>;
 
 While there is no doubt that, during the decades following 1960, there were many
 who identified as these "market socialists", were these "Marxists"?
@@ -89,11 +89,11 @@ been forced to survive the horrors of Vietnam, arrived at long last to their
 homes only to find upper-middle class whites screaming "baby killer" and
 spitting upon them:
 
-> I mean, they called us baby killers, everything you could think of. And like I
+> I mean, they called us "baby killers", everything you could think of. And like I
 > said I was getting on a plane, they spit on us and...it wasn't, it wasn't
 > good.
 
-[Remembering Vietnam: Baby Killer](https://www.youtube.com/watch?v=bzWs2Uu8I9c)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzWs2Uu8I9c?start=27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusions
 
