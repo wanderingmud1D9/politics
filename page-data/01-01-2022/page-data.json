@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/01-01-2022/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"wanderingmud1D9"}},"markdownRemark":{"id":"d95aebd5-3191-5f0f-b52d-9501e2abe2ba","excerpt":"Hello world!","html":"<p>Hello world!</p>","frontmatter":{"title":"A dedicated platform for my politics","date":"January 01, 2022","description":"An explanatory post for this blog"}},"previous":null,"next":null},"pageContext":{"id":"d95aebd5-3191-5f0f-b52d-9501e2abe2ba","previousPostId":null,"nextPostId":null}},
+    "staticQueryHashes": ["230163734","2841359383"]}
