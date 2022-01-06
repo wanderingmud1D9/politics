@@ -1,0 +1,10 @@
+$primary-color: #000000;
+$secondary-color: #3CF73C;
+$font-body: monospace;
+$font-heading: monospace;
+$tertiary-color: #00FFFF;
+
+:root {
+  --font-body: $font-body;
+  --font-heading: $font-heading;
+}
