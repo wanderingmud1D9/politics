@@ -2,6 +2,11 @@
   font-weight: 100;
   font-size: x-large;
 
+  h2, h3, h4, h5, h6 {
+    color: #ffffff;
+    font-weight: 700;
+  }
+
   header {
     h1 {
       color: $secondary-color;
