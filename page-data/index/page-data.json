@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"wanderingmud1D9"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Hello world!","fields":{"slug":"/01-01-2022/"},"frontmatter":{"date":"January 01, 2022","title":"A dedicated platform for my politics","description":"An explanatory post for this blog"}}]}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"wanderingmud1D9"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Greetings everyone. This is to serve as a platform dedicated to my own discussions addressing points\nrelated to contemporary politics and…","fields":{"slug":"/01-01-2022/"},"frontmatter":{"date":"January 01, 2022","title":"A dedicated platform for my politics","description":"An explanatory post for this blog"}}]}},"pageContext":{}},
     "staticQueryHashes": ["230163734","2841359383"]}
